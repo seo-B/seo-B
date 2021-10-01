@@ -1,7 +1,6 @@
 # 🧸  Hi Guys!⁯⁯ ⁠⁢👋
 
-### 📧⁯⁯  abejaseob@gmail.com
-<p>
+<a href="mailto:abejaseob@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abejaseob@gmail.com"/></a>
 <a href="https://velog.io/@seo-B">
     <img 
         src="http://img.shields.io/badge/-Velog-FFA07A?style=flat&logo=Vector Logo Zone&link=https://velog.io/@seo-B"
