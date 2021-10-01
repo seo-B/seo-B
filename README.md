@@ -1,7 +1,7 @@
 # 🧸  Hi Guys!⁯⁯ ⁠⁢👋
 
 ### 📧⁯⁯  abejaseob@gmail.com
-
+<p>
 <a href="https://velog.io/@seo-B">
     <img 
         src="http://img.shields.io/badge/-Velog-FFA07A?style=flat&logo=Vector Logo Zone&link=https://velog.io/@seo-B"
