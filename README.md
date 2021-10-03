@@ -1,7 +1,7 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=🧸%20Hi%20Guys!%20I'm%20Seo-B%20👋&height=150&fontSize=60&desc=&descAlignY=75&descAlign=60)
 
-<a href="https://velog.io/@seo-B">
-    <img src="http://img.shields.io/badge/-MY%20Velog-2BBC26?style=flat-square&logo=Vector Logo Zone&link=https://velog.io/@seo-B" />
+<a href="https://velog.io/@seo-b">
+    <img src="http://img.shields.io/badge/-MY%20Velog-2BBC26?style=flat-square&logo=Vector Logo Zone&link=https://velog.io/@seo-b" />
 </a>
 <a href="mailto:abejaseop@gmail.com">
     <img src="https://img.shields.io/badge/Send Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abejaseop@gmail.com" />
