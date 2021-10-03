@@ -3,8 +3,8 @@
 <a href="https://velog.io/@seo-B">
     <img src="http://img.shields.io/badge/-MY%20Velog-2BBC26?style=flat-square&logo=Vector Logo Zone&link=https://velog.io/@seo-B" />
 </a>
-<a href="mailto:abejaseob@gmail.com">
-    <img src="https://img.shields.io/badge/Send Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abejaseob@gmail.com" />
+<a href="mailto:abejaseop@gmail.com">
+    <img src="https://img.shields.io/badge/Send Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=abejaseop@gmail.com" />
 </a>
 <p>
     
