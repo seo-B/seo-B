@@ -1,4 +1,6 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=🧸%20Hi%20Guys!%20I'm%20Seo-B%20👋&height=150&fontSize=60&desc=&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=🧸%20Hi%20Guys!%20I'm%20Seo-B%20👋&height=150&fontSize=60&desc=como%20una%20abeja!%20오늘보다%20one%20more%20thing!&descAlignY=80&descAlign=70)
+
+<hr/>
 
 <a href="https://velog.io/@seo-b">
     <img src="http://img.shields.io/badge/-MY%20Velog-2BBC26?style=flat-square&logo=Vector Logo Zone&link=https://velog.io/@seo-b" />
