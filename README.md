@@ -40,6 +40,7 @@
 <br/>
 
 ## Algolithm Challenges
-    
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo_b)](https://solved.ac/seo_b)
 
+<table style="margin: 0 auto;"><tr><td valign="top" width="50%">
+  
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seo_b&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 98%" />
