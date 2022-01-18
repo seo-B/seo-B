@@ -42,8 +42,10 @@
 </td></tr></table>  
 <br/>
 
+<!-- 
 ## Algolithm Challenges
 
 <table style="margin: 0 auto;"><tr><td valign="top" width="50%">
   
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seo_b&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 98%" />
+   -->
